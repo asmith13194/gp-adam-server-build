@@ -1,0 +1,22 @@
+{
+  "name": "expressserver_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmith13194/gp-adam-server-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmith13194/gp-adam-server-build/issues"
+  },
+  "homepage": "https://github.com/asmith13194/gp-adam-server-build#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
